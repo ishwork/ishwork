@@ -11,11 +11,12 @@
 - ⚛️ React
 - ⬛ Next.js
 - 🐳 Docker
-- ☁️ AWS
+- ☁️ AWS Services (Worked with few services - S3, DynamoDB, Lambda function, API Gateway, ELB, Cognito, IAM role, Cloudwatch, Secrets Manager, Pinpoint Analytics, Redshift)
 - 📝 Redux / Redux Toolkit
 - 🌀 Tailwind CSS
 - 💖 Sass
 - 🎨 Styled Components
+- 💠 Material UI
 - 🟩 Node.js
 - 🦄 Express.js
 - 🧪 React Testing Library
