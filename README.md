@@ -16,6 +16,7 @@
 - 🧪 React Testing Library
 - 🦾 Playwright
 - 🐙 GitHub
+- 🟦 DynamoDB
 - 🐬 MySQL
 - 🐘 PostgreSQL
 - 💻 HTML / CSS
