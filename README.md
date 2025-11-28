@@ -1,9 +1,6 @@
-<!-- Cover Image -->
-<img alt="Smiley Face" width="200" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><circle cx='100' cy='100' r='90' fill='%23FFEB3B' stroke='%23FBC02D' stroke-width='8'/><circle cx='70' cy='80' r='15' fill='%23000'/><circle cx='130' cy='80' r='15' fill='%23000'/><path d='M60 130 Q100 170 140 130' stroke='%23000' stroke-width='8' fill='none' stroke-linecap='round'/></svg>" />
-
 # Hi, I'm Ishwor 👋
 
-## Technologies I have worked with
+## Technologies, I have worked with
 
 - 🟦 TypeScript
 - ⚛️ React
