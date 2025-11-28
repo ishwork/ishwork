@@ -1,6 +1,11 @@
-# Hi, I'm Ishwor 👋
+<h1 align="center">Hi, I'm Ishwor! <span style="font-size:2rem;">👋</span></h1>
 
-## Technologies, I have worked with
+<p align="center">
+<b>Full Stack Developer | Cloud Enthusiast | Lifelong Learner</b><br>
+<i>Building modern web experiences with passion, creativity, and a can-do attitude.</i>
+</p>
+
+## 🚀 Technologies & Tools I Love Working With
 
 - 🟦 TypeScript
 - ⚛️ React
