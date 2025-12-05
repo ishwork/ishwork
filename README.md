@@ -31,6 +31,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+## 💭 My Motto
+
+> Someone will be ahead of you in one topic and you will be ahead in another. Keep learning, keep developing - growth happens one step at a time. Every line of code is a chance to make something better.
+
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishwor-khadka-147699132)
